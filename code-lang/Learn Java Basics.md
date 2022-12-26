@@ -607,6 +607,7 @@ if (email.matches(pattern)) {
 }
 ```
 This code defines a regular expression pattern that represents a valid email address, and uses it to validate the `email` string. If the string matches the pattern, it is considered a valid email address.
+
 33. Java Internationalization (i18n): Java internationalization (i18n) is the process of adapting software for use in multiple languages and regions. Java provides a set of APIs and tools for localizing applications, including support for resource bundles, formatting dates and numbers, and handling character encoding. Here is an example of how to use resource bundles to localize a Java application:
 ```java
 // In the properties file for English:

@@ -49,3 +49,15 @@ I hope these tips are helpful! Let me know if you have any questions or if there
 ---
 > continue
 ---
+Certainly! Here are a few more things you might want to consider when internationalizing a Java application:
+
+18. Use the `java.text.Normalizer` class to handle Unicode normalization: Unicode normalization is the process of converting a Unicode string to a standardized form to ensure that it is displayed consistently across different devices and platforms. The `Normalizer` class allows you to normalize Unicode strings in various ways, such as by removing accent marks or by converting characters to their decomposed form.
+19. Use the `java.text.Bidi` class to handle bidirectional text: The `Bidi` class allows you to work with bidirectional text, which is text that is written in languages that are read from right to left, such as Arabic or Hebrew. The `Bidi` class provides methods for reversing the order of characters in a string and for determining the direction of text.
+20. Use the `java.text.CollationKey` class for fast string comparison: The `CollationKey` class allows you to compare strings in a way that is appropriate for the user's preferred locale. You can use the `CollationKey` class to create a sort key for a string, which is a compact representation of the string that can be used for fast comparison.
+
+I hope these tips are helpful! Let me know if you have any questions or if there is anything else I can help with.
+
+---
+ON MY, IT KEPT TALKING
+> continue
+---
