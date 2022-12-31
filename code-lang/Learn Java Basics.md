@@ -618,7 +618,7 @@ greeting=Hello
 (think)  
 Did it give me full code? No!  
 Let's ask for it in new chat.  
-But... OMG it is so big, so I'll put it [Internationalization (i18n).md](https://github.com/Raymond-JavaCoder/Raymond-and-ChatGPT/blob/main/Java/Internationalization(i18n).md)
+But... OMG it is so big, so I'll put it [Internationalization (i18n).md](https://github.com/Raymond-Weng/Raymond-and-ChatGPT/blob/main/Java/Internationalization(i18n).md)
 
 Let's keep going.
 > continue
